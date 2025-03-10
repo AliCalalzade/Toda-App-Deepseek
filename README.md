@@ -29,4 +29,4 @@ Tətbiqi yerli mühitdə işə salmaq üçün aşağıdakı addımları izləyin
 3. **Tətbiqin işə salınması**:
    ```bash
    npx expo start
-<img src='https://github.com/AliCalalzade/Toda-App-Deepseek/tree/b488b3a6810ce3c88407d10b73682bf86a4e973a/assets%20'/>
+<img src='https://github.com/AliCalalzade/Toda-App-Deepseek/blob/b488b3a6810ce3c88407d10b73682bf86a4e973a/assets%20/SRC.png'/>
