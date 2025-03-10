@@ -21,8 +21,8 @@ Tətbiqi yerli mühitdə işə salmaq üçün aşağıdakı addımları izləyin
 
 1. **Proyektin klonlanması**:
    ```bash
-   git clone https://github.com/AliCalalzade/Toda-App-Deepseek.git
-   cd Toda-App-Deepseek
+   git clone https://github.com/AliCalalzade/Todo-App-Deepseek.git
+   cd Todo-App-Deepseek
 2. **Paketlərin quraşdırılması**:
    ```bash
    npm install
